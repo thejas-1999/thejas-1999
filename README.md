@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thejas-1999
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning MERNSTACK
-- you cna reache me through thejask074@gmail.com
+- you cAN reache me through thejask074@gmail.com
 
 
 
